@@ -1,2 +1,2 @@
-# fifi-data-analysis
+# fifa-data-analysis
 Fifa data analysis for 3BSC DM student. 
