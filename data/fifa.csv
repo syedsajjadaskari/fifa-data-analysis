@@ -1,0 +1,22 @@
+Date,Stage,Team,Player,Goals,Assists,xG,Possession,Result
+2022-12-18,Final,Argentina,Lionel Messi,2,0,1.8,54,Win
+2022-12-18,Final,France,Kylian Mbappe,3,0,1.7,46,Loss
+2022-12-18,Final,Argentina,Angel Di Maria,1,0,0.8,54,Win
+2022-12-13,Semi-Final,Argentina,Julian Alvarez,2,0,1.2,39,Win
+2022-12-13,Semi-Final,Argentina,Lionel Messi,1,1,0.9,39,Win
+2022-12-14,Semi-Final,France,Theo Hernandez,1,0,0.5,39,Win
+2022-12-14,Semi-Final,France,Randal Kolo Muani,1,0,0.6,39,Win
+2022-12-10,Quarter-Final,France,Olivier Giroud,1,0,0.7,43,Win
+2022-12-10,Quarter-Final,France,Aurelien Tchouameni,1,0,0.2,43,Win
+2022-12-10,Quarter-Final,England,Harry Kane,1,0,1.1,57,Loss
+2022-12-09,Quarter-Final,Argentina,Nahuel Molina,1,0,0.4,48,Win
+2022-12-09,Quarter-Final,Argentina,Lionel Messi,1,1,0.8,48,Win
+2022-12-09,Quarter-Final,Netherlands,Wout Weghorst,2,0,0.9,52,Loss
+2022-12-06,Round of 16,Portugal,Goncalo Ramos,3,1,1.4,47,Win
+2022-12-06,Round of 16,Portugal,Pepe,1,0,0.3,47,Win
+2022-12-06,Round of 16,Portugal,Raphael Guerreiro,1,0,0.1,47,Win
+2022-12-06,Round of 16,Portugal,Rafael Leao,1,0,0.2,47,Win
+2022-12-05,Round of 16,Brazil,Vinicius Junior,1,1,0.5,54,Win
+2022-12-05,Round of 16,Brazil,Neymar,1,0,0.8,54,Win
+2022-12-05,Round of 16,Brazil,Richarlison,1,0,0.6,54,Win
+2022-12-05,Round of 16,Brazil,Lucas Paqueta,1,0,0.4,54,Win
